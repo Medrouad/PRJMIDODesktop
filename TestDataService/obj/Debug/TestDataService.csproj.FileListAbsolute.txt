@@ -1,0 +1,10 @@
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\TestDataService\obj\Debug\TestDataService.exe
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\TestDataService\bin\Debug\TestDataService.exe
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\TestDataService\bin\Debug\TestDataService.pdb
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\TestDataService\bin\Debug\DataService.dll
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\TestDataService\bin\Debug\MySql.Data.dll
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\TestDataService\bin\Debug\itextsharp.dll
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\TestDataService\bin\Debug\DataService.pdb
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\TestDataService\bin\Debug\itextsharp.xml
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\TestDataService\obj\Debug\TestDataService.csprojResolveAssemblyReference.cache
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\TestDataService\obj\Debug\TestDataService.pdb
