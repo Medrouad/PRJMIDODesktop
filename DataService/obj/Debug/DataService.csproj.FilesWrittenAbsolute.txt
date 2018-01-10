@@ -1,0 +1,10 @@
+/Users/maximeratnam/Dropbox/Dauphine/IF M2/binome_Rouad/C#/Projet/PRJMIDODesktop/DataService/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/maximeratnam/Dropbox/Dauphine/IF M2/binome_Rouad/C#/Projet/PRJMIDODesktop/DataService/bin/Debug/MySql.Data.dll
+/Users/maximeratnam/Dropbox/Dauphine/IF M2/binome_Rouad/C#/Projet/PRJMIDODesktop/DataService/bin/Debug/DataService.dll.config
+/Users/maximeratnam/Dropbox/Dauphine/IF M2/binome_Rouad/C#/Projet/PRJMIDODesktop/DataService/bin/Debug/DataService.dll.mdb
+/Users/maximeratnam/Dropbox/Dauphine/IF M2/binome_Rouad/C#/Projet/PRJMIDODesktop/DataService/bin/Debug/DataService.dll
+/Users/maximeratnam/Dropbox/Dauphine/IF M2/binome_Rouad/C#/Projet/PRJMIDODesktop/DataService/obj/Debug/DataService.dll
+/Users/maximeratnam/Dropbox/Dauphine/IF M2/binome_Rouad/C#/Projet/PRJMIDODesktop/DataService/obj/Debug/DataService.dll.mdb
+/Users/maximeratnam/Dropbox/Dauphine/IF M2/binome_Rouad/C#/Projet/PRJMIDODesktop/DataService/bin/Debug/DataService.pdb
+/Users/maximeratnam/Dropbox/Dauphine/IF M2/binome_Rouad/C#/Projet/PRJMIDODesktop/DataService/obj/Debug/DataService.pdb
+/Users/maximeratnam/Dropbox/Dauphine/IF M2/binome_Rouad/C#/Projet/PRJMIDODesktop/DataService/bin/Debug/itextsharp.dll

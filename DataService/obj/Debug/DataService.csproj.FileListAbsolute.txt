@@ -1,0 +1,9 @@
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\DataService\bin\Debug\DataService.dll.config
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\DataService\bin\Debug\DataService.dll
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\DataService\bin\Debug\DataService.pdb
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\DataService\bin\Debug\MySql.Data.dll
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\DataService\obj\Debug\DataService.dll
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\DataService\obj\Debug\DataService.pdb
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\DataService\bin\Debug\itextsharp.dll
+C:\Users\med\Dropbox\binome_Rouad\C#\Projet\PRJMIDODesktop\DataService\bin\Debug\itextsharp.xml
