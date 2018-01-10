@@ -1,4 +1,4 @@
-# PRJMIDODesktop
+# PRJMIDODesktop - C#
 
 
 Ce projet, extrait d’une demande réelle, consiste à mettre en place une application
